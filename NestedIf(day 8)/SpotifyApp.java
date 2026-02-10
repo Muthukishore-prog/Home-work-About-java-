@@ -189,8 +189,7 @@ public class SpotifyApp
                 }
                 break;
 
-            default:
-                System.out.println("Error: Invalid music director");
+            
         }
 
         
